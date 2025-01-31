@@ -1,6 +1,5 @@
-# Hello World! 👾 I'm B13ss3d
+# 👾 I'm B13ss3d
 
-## 🎭 About Me
 Aspiring ethical hacker and security enthusiast, currently diving into the fascinating world of Web3. Computer Systems Engineering student by day, code explorer by night.
 
 ### 🛠️ Tech Stack & Tools
@@ -20,10 +19,3 @@ Aspiring ethical hacker and security enthusiast, currently diving into the fasci
 - 🔒 Security Research
 - 🎯 CTF Challenges
 - 🌐 Network Security
-
-### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/luisfffuentes)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)]([your-twitter](https://x.com/_B13ss3d_))
-<!--
-### 🚀 Featured Projects
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=repository-name&theme=dark)](https://github.com/YourUsername/repository-name)-->
