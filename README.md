@@ -1,7 +1,12 @@
 # 👾 I'm B13ss3d
 
 Computer Systems Engineering student passionate about cybersecurity, focusing on offensive security techniques and the evolving landscape of Web3. Eager to explore vulnerabilities, contribute to secure development, and dive deep into smart contract auditing.
-  
+
+# 🏆 Achievements & Recognitions
+ - 1st place at Hackmex 7
+ - 7th place at Hackdef 8
+ - 2nd place at LACC 2025
+
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40"/>
